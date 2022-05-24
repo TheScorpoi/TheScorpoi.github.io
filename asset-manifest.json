@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d2ab3a69.chunk.js",
+    "main.js.map": "/static/js/main.d2ab3a69.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03b3423f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03b3423f.js.map",
+    "static/js/2.044ddbeb.chunk.js": "/static/js/2.044ddbeb.chunk.js",
+    "static/js/2.044ddbeb.chunk.js.map": "/static/js/2.044ddbeb.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.044ddbeb.chunk.js.LICENSE.txt": "/static/js/2.044ddbeb.chunk.js.LICENSE.txt",
+    "static/media/BG.e969b087.png": "/static/media/BG.e969b087.png",
+    "static/media/MI4WEB-M1.dd7ea4ff.pdf": "/static/media/MI4WEB-M1.dd7ea4ff.pdf",
+    "static/media/MI4WEB-M2.c1e7fed5.pdf": "/static/media/MI4WEB-M2.c1e7fed5.pdf",
+    "static/media/MI4WEB-M3.521d86cf.pdf": "/static/media/MI4WEB-M3.521d86cf.pdf",
+    "static/media/andre.786da5c1.png": "/static/media/andre.786da5c1.png",
+    "static/media/architeture.16cbe9ff.png": "/static/media/architeture.16cbe9ff.png",
+    "static/media/bg-about-us.cf9a123e.jpg": "/static/media/bg-about-us.cf9a123e.jpg",
+    "static/media/calendar1.cbec1b9e.png": "/static/media/calendar1.cbec1b9e.png",
+    "static/media/calendar2.66820b3a.png": "/static/media/calendar2.66820b3a.png",
+    "static/media/dani.f63f0ad7.png": "/static/media/dani.f63f0ad7.png",
+    "static/media/deti-teste.567fe4c4.jpg": "/static/media/deti-teste.567fe4c4.jpg",
+    "static/media/eva.26141f6c.png": "/static/media/eva.26141f6c.png",
+    "static/media/ieeta.d6faa426.jpg": "/static/media/ieeta.d6faa426.jpg",
+    "static/media/marta.90418c24.jpeg": "/static/media/marta.90418c24.jpeg",
+    "static/media/rotating-card-bg-back.183088de.jpeg": "/static/media/rotating-card-bg-back.183088de.jpeg",
+    "static/media/rotating-card-bg-front.bdcdfadc.jpeg": "/static/media/rotating-card-bg-front.bdcdfadc.jpeg",
+    "static/media/sobral.5cb6a0db.png": "/static/media/sobral.5cb6a0db.png",
+    "static/media/ua-logo.28e964fd.png": "/static/media/ua-logo.28e964fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03b3423f.js",
+    "static/js/2.044ddbeb.chunk.js",
+    "static/js/main.d2ab3a69.chunk.js"
+  ]
+}
