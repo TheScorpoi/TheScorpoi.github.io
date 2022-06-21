@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.8fcd0989.chunk.js",
-    "main.js.map": "/static/js/main.8fcd0989.chunk.js.map",
+    "main.js": "/static/js/main.61d1877b.chunk.js",
+    "main.js.map": "/static/js/main.61d1877b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.7aa384aa.js",
     "runtime-main.js.map": "/static/js/runtime-main.7aa384aa.js.map",
     "static/js/2.3e2f1614.chunk.js": "/static/js/2.3e2f1614.chunk.js",
@@ -13,12 +13,13 @@
     "static/media/MI4WEB-M1.dd7ea4ff.pdf": "/static/media/MI4WEB-M1.dd7ea4ff.pdf",
     "static/media/MI4WEB-M2.c1e7fed5.pdf": "/static/media/MI4WEB-M2.c1e7fed5.pdf",
     "static/media/MI4WEB-M3.521d86cf.pdf": "/static/media/MI4WEB-M3.521d86cf.pdf",
+    "static/media/MI4WEB-M4.d0ded1c3.pdf": "/static/media/MI4WEB-M4.d0ded1c3.pdf",
     "static/media/Technical_Report_MI4WEB.f3b98216.pdf": "/static/media/Technical_Report_MI4WEB.f3b98216.pdf",
     "static/media/andre.786da5c1.png": "/static/media/andre.786da5c1.png",
     "static/media/api_documentation.b8e54d10.png": "/static/media/api_documentation.b8e54d10.png",
     "static/media/architeture.be0bf48f.png": "/static/media/architeture.be0bf48f.png",
-    "static/media/calendar1.16d7cf91.png": "/static/media/calendar1.16d7cf91.png",
-    "static/media/calendar2.4a428d37.png": "/static/media/calendar2.4a428d37.png",
+    "static/media/calendar1.0dc322c1.png": "/static/media/calendar1.0dc322c1.png",
+    "static/media/calendar2.daf3b6b2.png": "/static/media/calendar2.daf3b6b2.png",
     "static/media/dani.f63f0ad7.png": "/static/media/dani.f63f0ad7.png",
     "static/media/deploy_diagram.e4f81fad.png": "/static/media/deploy_diagram.e4f81fad.png",
     "static/media/deti-teste.567fe4c4.jpg": "/static/media/deti-teste.567fe4c4.jpg",
@@ -27,6 +28,7 @@
     "static/media/ieeta.d6faa426.jpg": "/static/media/ieeta.d6faa426.jpg",
     "static/media/information_model.fb1e99e7.png": "/static/media/information_model.fb1e99e7.png",
     "static/media/marta.90418c24.jpeg": "/static/media/marta.90418c24.jpeg",
+    "static/media/poster_g7.1fc243b7.pdf": "/static/media/poster_g7.1fc243b7.pdf",
     "static/media/rotating-card-bg-back.183088de.jpeg": "/static/media/rotating-card-bg-back.183088de.jpeg",
     "static/media/rotating-card-bg-front.bdcdfadc.jpeg": "/static/media/rotating-card-bg-front.bdcdfadc.jpeg",
     "static/media/sobral.5cb6a0db.png": "/static/media/sobral.5cb6a0db.png",
@@ -37,6 +39,6 @@
   "entrypoints": [
     "static/js/runtime-main.7aa384aa.js",
     "static/js/2.3e2f1614.chunk.js",
-    "static/js/main.8fcd0989.chunk.js"
+    "static/js/main.61d1877b.chunk.js"
   ]
 }
